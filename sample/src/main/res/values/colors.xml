@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="title_bg">#19202c</color>
+    <color name="content_bg">#f2f2f2</color>
+    <color name="line_color">#bfbfbf</color>
+    <color name="text_press_color">#ff0000</color>
+    <color name="text_normal_color">#666666</color>
+
+    <color name="app_primary_color">#2a218a</color>
+    <color name="white">#ffffff</color>
+    <color name="button_bg">#2a218a</color>
+    <color name="title_color">#ffffff</color>
+
+    <color name="list_item_pressed">#dddddd</color>
+    <color name="list_item_normal">#ffffff</color>
+
+    <color name="btn_white_normal">#FFFFFF</color>
+    <color name="btn_white_press">#888888</color>
+
+    <color name="btn_gray_press">#4b4e51</color>
+    <color name="btn_gray_normal">#8e9499</color>
+
+    <color name="sheet_dialog_bg">#EFEFEF</color>
+
+    <color name="text_premary_color">#767676</color>
+    <color name="text_second_color">#808080</color>
+
+    <color name="gidoor_theme_color">#e67e22</color>
+
+    <color name="not_enable_color">#999999</color>
+    <color name="button_pressed_color">#50509f</color>
+
+    <color name="color_bfbfbf">#bfbfbf</color>
+    <color name="color_767676">#767676</color>
+    <color name="color_1ca41c">#1ca41c</color>
+    <color name="color_252525">#252525</color>
+    <color name="color_green">#006000</color>
+    <color name="color_qian_green">#39b54a</color>
+    <color name="color_black">#000000</color>
+    <color name="color_red">#e11515</color>
+    <color name="color_qian_hui">#d1d2d4</color>
+    <color name="color_cheng">#e3944e</color>
+
+    <color name="tab_underline_color">#fed052</color>
+    <color name="tab_text_color">#8e8e8e</color>
+
+
+    <color name="black">#ff000000</color>
+    <color name="blue">#ff75a6ff</color>
+    <color name="red">#E1423C</color>
+    <color name="translucence">#506050</color>
+    <color name="bg_gray">#e2e2e2</color>
+    <color name="green">#65e17b</color>
+
+    <color name="progress">#E3944e</color>
+
+</resources>
