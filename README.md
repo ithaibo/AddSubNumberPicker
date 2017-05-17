@@ -30,7 +30,7 @@ gradle中添加compile project(':add_sub_number_picker_library')
 设置类型、提示内容：
 ```Java
     picker.setTypeCountLimitAndToasLimittStr(AddSubNumberPicker.TYPE_UNSIGN_NUMBER, "不能小于0");
-        设置CountChangeListner：
+        //设置CountChangeListner：
                 picker.setCountChangeListner(new AddSubNumberPicker.CountChangeListner() {
                     @Override
                     public void onCountChanged(int count) {
